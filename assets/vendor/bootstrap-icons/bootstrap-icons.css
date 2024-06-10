@@ -1871,8 +1871,8 @@ url("./fonts/bootstrap-icons.woff?dd67030699838ea613ee6dbda90effa6") format("wof
 .bi-sign-merge-right::before { content: "\f85e"; }
 .bi-sign-no-left-turn-fill::before { content: "\f85f"; }
 .bi-sign-no-left-turn::before { content: "\f860"; }
-.bi-sign-no-parking-fill::before { content: "\f861"; }
-.bi-sign-no-parking::before { content: "\f862"; }
+.bi-sign-no-Newing-fill::before { content: "\f861"; }
+.bi-sign-no-Newing::before { content: "\f862"; }
 .bi-sign-no-right-turn-fill::before { content: "\f863"; }
 .bi-sign-no-right-turn::before { content: "\f864"; }
 .bi-sign-railroad-fill::before { content: "\f865"; }
